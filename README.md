@@ -1,3 +1,1 @@
-# hello-world
-Foo bar
-Salut
+# Proiect info
